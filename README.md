@@ -29,4 +29,4 @@
 1. Клонируйте репозиторий на свой локальный компьютер:
 
    ```shell
-   git clone https://github.com/MagEk1511/CP_PFO
+      git clone https://github.com/MagEk1511/CP_PFO
